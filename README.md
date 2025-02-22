@@ -1,13 +1,14 @@
 ## Hi there 👋
 
 you cant undo my bugs because they're
+
 <details>
-<summary>...</summary
-<pre>
-  // ‘//   // \\ //`|| |\  || ||‾‾|| ||  ||‾‾》\\      \\‾‾\\<br>
- // //\\ //   \\//  || ||\\|| ||     ||  ||=《 \\      \\=<br>
-//,//  \//     \/   ||,||  \| ||_||  ||, ||__》 \\_\\  \\_\\<br>
-</pre>
+  <summary>...</summary>
+
+  // ‘//   // \\ //`|| |\  || ||‾‾|| || ||‾‾‾》\\      \\‾‾\\  
+  // //\\ //   \\//  || ||\\|| ||      || ||=《  \\      \\=  
+  //,//  \//     \/   ||,||  \| ||_||  || ||__》 \\_\\  \\_\\  
+
 </details>
 
 
@@ -23,6 +24,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
