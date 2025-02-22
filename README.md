@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+you cant undo my bugs because they're...
+<details>
+<summary>
+  // ‘//   // \\ //`|| |\  || ||‾‾|| ||  ||‾‾》\\      \\‾‾\\
+ // //\\ //   \\//  || ||\\|| ||     ||  ||=《 \\      \\=
+//,//  \//     \/   ||,||  \| ||_||  ||, ||__》 \\_\\  \\_\\
+</summary
+</details>
+
+
+
 <!--
 **StevenRotelli/Stevenrotelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
