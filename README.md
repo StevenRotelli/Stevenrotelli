@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-you cant undo my bugs because they're...
+you cant undo my bugs because they're
 <details>
-<summary>
+<summary>...</summary
   // ‘//   // \\ //`|| |\  || ||‾‾|| ||  ||‾‾》\\      \\‾‾\\
  // //\\ //   \\//  || ||\\|| ||     ||  ||=《 \\      \\=
 //,//  \//     \/   ||,||  \| ||_||  ||, ||__》 \\_\\  \\_\\
-</summary
+
 </details>
 
 
